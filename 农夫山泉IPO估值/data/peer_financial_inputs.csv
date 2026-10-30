@@ -1,0 +1,5 @@
+symbol,company,balance_date,published_date,currency,borrowings_current_million,borrowings_noncurrent_million,leases_current_million,leases_noncurrent_million,shares,tax_normalized,source_file,balance_physical_page,shares_physical_page,source_locator,comparability
+0322.HK,康师傅控股,2020-06-30,2020-08-27,RMB,10530.939,4348.735,126.028,195.003,5623986360,0.25,tingyi_2020_interim.pdf,8,17,printed p5 and p14,饮料及方便面；产品组合与包装水企业有差异
+0220.HK,统一企业中国,2020-06-30,2020-08-20,RMB,2456.397,0,26.808,19.462,4319334000,0.25,unipresident_2020_interim.pdf,34,57,printed p32 and p55,饮料及食品；渠道与市场接近
+0345.HK,维他奶国际,2020-03-31,2020-07-16,HKD,241.424,0,89.957,153.617,1063777500,0.25,vitasoy_202003_annual.pdf,112,88,printed p110 and p86,豆奶及茶饮料；地区与产品结构存在差异
+0506.HK,中国食品,2020-06-30,2020-09-07,RMB,395.668,145,33.784,67.118,2797223396,0.25,chinafoods_2020_interim.pdf,27,46,printed p25 and p44,饮料装瓶及分销；品牌所有权与包装水企业有差异

@@ -1,0 +1,155 @@
+{
+  "checks": [
+    {
+      "check": "Independent peer beta: 0322.HK",
+      "passed": true,
+      "evidence": {
+        "levered": 0.6555919718999286,
+        "unlevered": 0.5701232962784561
+      }
+    },
+    {
+      "check": "Independent peer beta: 0220.HK",
+      "passed": true,
+      "evidence": {
+        "levered": 0.4942650210112881,
+        "unlevered": 0.4630558089516741
+      }
+    },
+    {
+      "check": "Independent peer beta: 0345.HK",
+      "passed": true,
+      "evidence": {
+        "levered": 0.3776407204669025,
+        "unlevered": 0.3730684206328983
+      }
+    },
+    {
+      "check": "Independent peer beta: 0506.HK",
+      "passed": true,
+      "evidence": {
+        "levered": 0.6502283364015587,
+        "unlevered": 0.6077740058542442
+      }
+    },
+    {
+      "check": "Independent peer sample cutoff",
+      "passed": true,
+      "evidence": {
+        "first_week": "2018-09-07",
+        "last_week": "2020-09-04",
+        "weekly_returns": 104
+      }
+    },
+    {
+      "check": "Independent bottom-up WACC",
+      "passed": true,
+      "evidence": {
+        "beta": 0.5073198176484798,
+        "wacc": 0.0600597971683197
+      }
+    },
+    {
+      "check": "Independent Python vs R price",
+      "passed": true,
+      "evidence": {
+        "python": 24.90038266650075,
+        "R": 24.9003826665007,
+        "absolute_difference": 4.973799150320701e-14
+      }
+    },
+    {
+      "check": "Independent enterprise value",
+      "passed": true,
+      "evidence": 2452.22108081692
+    },
+    {
+      "check": "Annual statements reconcile",
+      "passed": true,
+      "evidence": "2017-2019"
+    },
+    {
+      "check": "Primary PDF: 2019 revenue",
+      "passed": true,
+      "evidence": "24,021,041"
+    },
+    {
+      "check": "Primary PDF: 2019 operating net cash",
+      "passed": true,
+      "evidence": "7,471,839"
+    },
+    {
+      "check": "Primary PDF: 2019 cash equivalents",
+      "passed": true,
+      "evidence": "1,083,142"
+    },
+    {
+      "check": "Primary PDF: IPO shares",
+      "passed": true,
+      "evidence": "11,188,231,800"
+    },
+    {
+      "check": "Primary PDF: special dividend",
+      "passed": true,
+      "evidence": "7,800"
+    },
+    {
+      "check": "Peer PDF debt/shares: 0322.HK",
+      "passed": true,
+      "evidence": [
+        "10,530,939",
+        "126,028",
+        "195,003",
+        "4,348,735",
+        "5,623,986,360"
+      ]
+    },
+    {
+      "check": "Peer PDF debt/shares: 0220.HK",
+      "passed": true,
+      "evidence": [
+        "2,456,397",
+        "26,808",
+        "19,462",
+        "4,319,334,000"
+      ]
+    },
+    {
+      "check": "Peer PDF debt/shares: 0345.HK",
+      "passed": true,
+      "evidence": [
+        "241,424",
+        "89,957",
+        "153,617",
+        "1,063,777,500"
+      ]
+    },
+    {
+      "check": "Peer PDF debt/shares: 0506.HK",
+      "passed": true,
+      "evidence": [
+        "395,668",
+        "33,784",
+        "67,118",
+        "145,000",
+        "2,797,223,396"
+      ]
+    },
+    {
+      "check": "UTF-8 output enterprise_to_equity_bridge.csv",
+      "passed": true,
+      "evidence": "no control characters"
+    },
+    {
+      "check": "UTF-8 output bridge_robustness.csv",
+      "passed": true,
+      "evidence": "no control characters"
+    },
+    {
+      "check": "UTF-8 output validation_checks.csv",
+      "passed": true,
+      "evidence": "no control characters"
+    }
+  ],
+  "all_passed": true
+}

@@ -1,0 +1,272 @@
+[
+  {
+    "file": ".gitignore",
+    "bytes": 544,
+    "sha256": "d1a33aa83c55acd8892f0b7e2efe2781e7587fdfaf32755d8d79f5977d90d38e"
+  },
+  {
+    "file": "code/01_extract_sources.py",
+    "bytes": 2077,
+    "sha256": "c966877e2f5200ee27e6a84bc13fb3bb77a461464387bd5d1482295162853848"
+  },
+  {
+    "file": "code/02_download_public_sources.py",
+    "bytes": 2365,
+    "sha256": "d8399f4903258e60d9efb3f37e10b4f705de87c867c686495628952fc72cb82e"
+  },
+  {
+    "file": "code/03_valuation.R",
+    "bytes": 11734,
+    "sha256": "d506f3c56893fbfdba7bf76db459b94299a888c34a47f88237065ad870462c5d"
+  },
+  {
+    "file": "code/04_figures.R",
+    "bytes": 3281,
+    "sha256": "c0e98a3314fb1bc85a1992bbae9d5997cc265f0ed0782bfa2c757617fc48b780"
+  },
+  {
+    "file": "code/05_independent_audit.py",
+    "bytes": 7365,
+    "sha256": "c63ddf4548b63dbc4f6cbed6b5c4e10804ede8387045a15dee48c82ff5da1357"
+  },
+  {
+    "file": "code/06_review_pdf.py",
+    "bytes": 1306,
+    "sha256": "8add15dd95f813e82887ec976f28e25aa5503592e516ae6ba3b18e5ccc40b6ab"
+  },
+  {
+    "file": "code/07_package_project.py",
+    "bytes": 1563,
+    "sha256": "b171eb9129ae35a6df089c2c6699705342450a3b56b4af2e64e9d8beeaa5aefb"
+  },
+  {
+    "file": "code/08_download_beta_sources.py",
+    "bytes": 5237,
+    "sha256": "0cf0b973c833b5c6079f2b7eeacfaf54fc7e769cddced1a0fb81eb326429be94"
+  },
+  {
+    "file": "code/09_peer_beta.R",
+    "bytes": 4375,
+    "sha256": "254474d94818be69b843f99c024de47a65c6a5afee9560a574a108d704b3acbe"
+  },
+  {
+    "file": "code/run_all.R",
+    "bytes": 303,
+    "sha256": "d7de46cf3b0d75db2878bcc58fdd0dbc7f43fe8ab9a55d9866b4895978af5d9c"
+  },
+  {
+    "file": "data/DATA_DICTIONARY.md",
+    "bytes": 5231,
+    "sha256": "10d983150c7b863f83a54a249bbb5006784c12b1951aa397005e3dbc235de0f3"
+  },
+  {
+    "file": "data/forecast_assumptions.csv",
+    "bytes": 1938,
+    "sha256": "d4090cd45624a7554b4594cfe3dcb5f7d74f4e83caac2b2e74587228054dedd2"
+  },
+  {
+    "file": "data/historical_financials.csv",
+    "bytes": 1159,
+    "sha256": "c0b37a43e5679a1b6b487b60df132a7e988edc105f83b4bcde080cc9dbf73ad6"
+  },
+  {
+    "file": "data/ipo_inputs.csv",
+    "bytes": 1283,
+    "sha256": "a6a7f445033570c5d074d864199153ca9ea4426b8d687a2524949f175a1ccacd"
+  },
+  {
+    "file": "data/peer_daily_prices.csv",
+    "bytes": 94492,
+    "sha256": "52484cf1536a9e8ad61512c1d0375fc55b969c6d06c4b1ded04d3ce951aefbee"
+  },
+  {
+    "file": "data/peer_financial_inputs.csv",
+    "bytes": 1074,
+    "sha256": "57f37c10173e2760ec9162c8816d864d3fdb17e624f6fea9d1c39a7b8cbedadf"
+  },
+  {
+    "file": "data/raw/peer_beta/0220.HK.json",
+    "bytes": 53480,
+    "sha256": "1839ff1be242d530d683ef80bd941616067ac5b23168de390e096a0e7ef5de0a"
+  },
+  {
+    "file": "data/raw/peer_beta/0322.HK.json",
+    "bytes": 55699,
+    "sha256": "329cc9e4808a15925c5e522233701c8bf3cbb6e542f5359282f8147d90060b8c"
+  },
+  {
+    "file": "data/raw/peer_beta/0345.HK.json",
+    "bytes": 51476,
+    "sha256": "1757f04a0783ea92cc19bc8040df3a0490952837a2c2144c959cc4fbc0fb4d9c"
+  },
+  {
+    "file": "data/raw/peer_beta/0506.HK.json",
+    "bytes": 54537,
+    "sha256": "77e8bfa393e8e34fbeaab36a6d7f51b9b225fa5761df1aa969842ce59160db33"
+  },
+  {
+    "file": "data/raw/peer_beta/index_HSI.json",
+    "bytes": 49095,
+    "sha256": "1c85541da9daaa3af8c3ec0e4f29f21405f46370013df5ccefc07310bed37b3d"
+  },
+  {
+    "file": "data/raw/peer_beta/sources_manifest.json",
+    "bytes": 2611,
+    "sha256": "5f33db7226a9b2b2082ba9483240c513e39d76d9b3c9341676725d8fac050f8b"
+  },
+  {
+    "file": "data/raw/public_sources_manifest.json",
+    "bytes": 1278,
+    "sha256": "047705938e26e482d27ee0047afeb80d63e320cc527f154951a1ddc689867c00"
+  },
+  {
+    "file": "data/segment_revenue.csv",
+    "bytes": 287,
+    "sha256": "e0653ebc244170e14356933d64fd085e3e321a9d6a299703a4b04f1f7302536e"
+  },
+  {
+    "file": "intermediate/independent_audit.json",
+    "bytes": 3589,
+    "sha256": "6752311de3f99176ed3292c02bbc25c976a718373c4fb691576417c555aab29c"
+  },
+  {
+    "file": "intermediate/R_sessionInfo.txt",
+    "bytes": 900,
+    "sha256": "4ad5bdee316264b8d166969e056447ae9b61ec1a8de72b6e1c10c2ad1f0aa143"
+  },
+  {
+    "file": "notes/01_作业要求与分析设计.md",
+    "bytes": 2867,
+    "sha256": "47b6815e0ac30f668512fc625b4ac519ec6a8df038679a78e39a6c35a18cc122"
+  },
+  {
+    "file": "notes/02_数据核对与口径.md",
+    "bytes": 5559,
+    "sha256": "6b8b7162a446b23ba67a2f7e7c7b57c9a3d78463079cac8cb085c6b9f8f877ad"
+  },
+  {
+    "file": "notes/03_复算与渲染检查.md",
+    "bytes": 6153,
+    "sha256": "6f40b5e0a2f0bc06d62bb16e17836931c42d500e474fec3f0a32a282fe79feb7"
+  },
+  {
+    "file": "notes/04_正文精简记录.md",
+    "bytes": 1762,
+    "sha256": "36acbd008dc433340edce6d9543a0c567b9d37ad911d4c88a8a4bc10240e6723"
+  },
+  {
+    "file": "notes/05_同行贝塔估计.md",
+    "bytes": 6099,
+    "sha256": "ff289e1f42f1aaecc5491c6bf302f9b1e9f99d6d37c38b9b67ccd8e797d6d84c"
+  },
+  {
+    "file": "notes/06_提交材料整理.md",
+    "bytes": 1243,
+    "sha256": "f2da3bbaba0348b17922af781998fdbd24ddd08bd032211daea223ffd51c0fb6"
+  },
+  {
+    "file": "outputs/figures/01_historical_cash_quality.png",
+    "bytes": 66154,
+    "sha256": "31b5fa1352f0c83360cd2a02d4df3f30a346edfd616e5aa747c65fb3b37876a5"
+  },
+  {
+    "file": "outputs/figures/02_forecast_fcff.png",
+    "bytes": 75854,
+    "sha256": "7e408896cc6ea8a524a3a6fb8f787f353cc1634232d7aeb41f318cd672549caa"
+  },
+  {
+    "file": "outputs/figures/03_valuation_comparison.png",
+    "bytes": 48637,
+    "sha256": "3df16fb66ded22219eca03686c013606a1a7c02c4661c2176fe3ffef016a4737"
+  },
+  {
+    "file": "outputs/figures/04_sensitivity.png",
+    "bytes": 105106,
+    "sha256": "14e7adbc3cba5110a46f5cee948b96e54f0b58393c1ef65dd2b0e42f03b2bad6"
+  },
+  {
+    "file": "outputs/tables/bridge_robustness.csv",
+    "bytes": 191,
+    "sha256": "648c109496ade444088b529f9b509a0f405eeb237754f0d9a53cb93f01737b6c"
+  },
+  {
+    "file": "outputs/tables/enterprise_to_equity_bridge.csv",
+    "bytes": 309,
+    "sha256": "80a9e3961b33709751931f60494c4bc1948ff6b0c4ffe8e96c1f4fc667d19fa9"
+  },
+  {
+    "file": "outputs/tables/forecast_all_scenarios.csv",
+    "bytes": 10886,
+    "sha256": "e562f61a89e3e3bb467a2c5d27cb470df7cdb7237b016e3ef28a5dc2cae7c82e"
+  },
+  {
+    "file": "outputs/tables/historical_ratios.csv",
+    "bytes": 1848,
+    "sha256": "f23e006e5cec75d421609ed7fdb1b25af32d80d1822771e2279f124d506b0d85"
+  },
+  {
+    "file": "outputs/tables/peer_beta_alternatives.csv",
+    "bytes": 690,
+    "sha256": "6e2de4ba1f3f992af231f21419fa24bff6b3e2a5c271d2e7075d951bacf4c79d"
+  },
+  {
+    "file": "outputs/tables/peer_beta_estimates.csv",
+    "bytes": 2030,
+    "sha256": "9f925f59f62b79f5953253b659de2be1c504a6fd2e4b7cc717854b5206ba5094"
+  },
+  {
+    "file": "outputs/tables/peer_weekly_prices.csv",
+    "bytes": 9469,
+    "sha256": "c02c2ce6e0b0fc2d729927763e1e2677271b31038b744e87e503b4ebc7ce60e5"
+  },
+  {
+    "file": "outputs/tables/peer_weekly_returns.csv",
+    "bytes": 11389,
+    "sha256": "3df2898b04b47f0025f20ea26e4ad24a9b850ac960805051c6eebf27f5657768"
+  },
+  {
+    "file": "outputs/tables/reverse_valuation.csv",
+    "bytes": 152,
+    "sha256": "385774286a9cf52c4f88ba083ec8383752bc57250bd266fbd52ad94aaf6b39ff"
+  },
+  {
+    "file": "outputs/tables/scenario_results.csv",
+    "bytes": 1409,
+    "sha256": "3de15164f13d000e7c6c40ef04008d9fd7cdbb89132ffa1286db3085549c9e1a"
+  },
+  {
+    "file": "outputs/tables/validation_checks.csv",
+    "bytes": 465,
+    "sha256": "743c7258d2e0bc33ab8e0c0d614f29e4409b19437450c08d1d321b2141cb832d"
+  },
+  {
+    "file": "outputs/tables/wacc_growth_sensitivity.csv",
+    "bytes": 1333,
+    "sha256": "0a973b69a559a3df8c1ada0e5d66775620f3215a4395ef5a5b6a57280f29765e"
+  },
+  {
+    "file": "README.md",
+    "bytes": 7447,
+    "sha256": "68142e1cb162d2666c24c9c5a67b57b8d579e6d079620fd05697f4eaba5df186"
+  },
+  {
+    "file": "references.bib",
+    "bytes": 3712,
+    "sha256": "d56e3cf45c123f5cd23d0cc0100127032102a1e2e15b1b20cd80d0e39d0212c9"
+  },
+  {
+    "file": "report_config.R",
+    "bytes": 124,
+    "sha256": "2c140959047f8415a7eefeed7cdcfb4eeda478b1ffaf2f51e297fc8527597d60"
+  },
+  {
+    "file": "requirements.txt",
+    "bytes": 77,
+    "sha256": "e3b13146d9143524aa6780c1757627b6b49781acc052d01a2e47c93807dcaf42"
+  },
+  {
+    "file": "农夫山泉IPO估值分析.qmd",
+    "bytes": 30588,
+    "sha256": "9f9cd18cb6954c8b0c5cce54cfaad0adb2f0bcf3ce4c638a7bcaa4c73797fd3d"
+  }
+]

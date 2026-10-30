@@ -1,0 +1,17 @@
+key,value,unit,status,source_locator
+offer_price_hkd,21.50,HKD/share,disclosed,20200907 allotment summary p3
+opening_price_hkd,39.80,HKD/share,case,case p10
+pre_ipo_shares,108,100million shares,disclosed,prospectus p207-208
+new_shares,3.882318,100million shares,disclosed,prospectus p207-208
+cash_july31,71.62,RMB100million,disclosed,prospectus p195
+debt_june30,22.53,RMB100million,disclosed,prospectus p192
+lease_june30,0.38,RMB100million,disclosed,prospectus p193
+special_dividend,78.00,RMB100million,disclosed,prospectus p195
+ipo_net_proceeds_hkd,81.49,HKD100million,disclosed,20200907 allotment summary p3
+rmb_per_hkd,0.8955,RMB/HKD,disclosed convention,prospectus p201 note3; not spot FX
+rf,0.030,annual nominal RMB,analyst assumption,rounded classroom assumption; not measured yield
+erp,0.060,annual nominal RMB,analyst assumption,scenario input; not historical estimate
+kd,0.030,annual nominal RMB,analyst assumption,within prospectus borrowing range2.05%-3.95% p192
+debt_weight,0.01,proportion,analyst assumption,target market-value weight; not book debt/assets
+tax,0.25,proportion,analyst assumption,normalized rate; historical effective rate near24%
+minimum_operating_cash_ratio,0.02,proportion revenue,analyst assumption,exclude required operating cash from equity bridge

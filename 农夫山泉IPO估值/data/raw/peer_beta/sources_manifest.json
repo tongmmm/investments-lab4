@@ -1,0 +1,56 @@
+[
+  {
+    "file": "data/raw/peer_beta/0322.HK.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/0322.HK?period1=1535760000&period2=1599264000&interval=1d&events=div%2Csplits",
+    "bytes": 55699,
+    "sha256": "329cc9e4808a15925c5e522233701c8bf3cbb6e542f5359282f8147d90060b8c"
+  },
+  {
+    "file": "data/raw/peer_beta/0220.HK.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/0220.HK?period1=1535760000&period2=1599264000&interval=1d&events=div%2Csplits",
+    "bytes": 53480,
+    "sha256": "1839ff1be242d530d683ef80bd941616067ac5b23168de390e096a0e7ef5de0a"
+  },
+  {
+    "file": "data/raw/peer_beta/0345.HK.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/0345.HK?period1=1535760000&period2=1599264000&interval=1d&events=div%2Csplits",
+    "bytes": 51476,
+    "sha256": "1757f04a0783ea92cc19bc8040df3a0490952837a2c2144c959cc4fbc0fb4d9c"
+  },
+  {
+    "file": "data/raw/peer_beta/0506.HK.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/0506.HK?period1=1535760000&period2=1599264000&interval=1d&events=div%2Csplits",
+    "bytes": 54537,
+    "sha256": "77e8bfa393e8e34fbeaab36a6d7f51b9b225fa5761df1aa969842ce59160db33"
+  },
+  {
+    "file": "data/raw/peer_beta/index_HSI.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EHSI?period1=1535760000&period2=1599264000&interval=1d&events=div%2Csplits",
+    "bytes": 49095,
+    "sha256": "1c85541da9daaa3af8c3ec0e4f29f21405f46370013df5ccefc07310bed37b3d"
+  },
+  {
+    "file": "data/raw/peer_beta/tingyi_2020_interim.pdf",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2020/0827/2020082700586_c.pdf",
+    "bytes": 1617619,
+    "sha256": "7a70657566cd2c96d676f41e8e932953c906feca9be0410892abd477e0f94f51"
+  },
+  {
+    "file": "data/raw/peer_beta/unipresident_2020_interim.pdf",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2020/0820/2020082000374.pdf",
+    "bytes": 1880109,
+    "sha256": "7ffc023fe06ee80f31e31253d4f669777d480369b5a594f9b42c26e08a8cedf3"
+  },
+  {
+    "file": "data/raw/peer_beta/vitasoy_202003_annual.pdf",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2020/0716/2020071600474.pdf",
+    "bytes": 7465823,
+    "sha256": "b1f2e3a16c6d961d29847cf349144a5723b0484e11abe58a9985754c828bf93e"
+  },
+  {
+    "file": "data/raw/peer_beta/chinafoods_2020_interim.pdf",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2020/0907/2020090700362.pdf",
+    "bytes": 6089572,
+    "sha256": "da6174740646c093bba9b276d118e61c74be6e34cf39b3a49fd5d517665a23ac"
+  }
+]

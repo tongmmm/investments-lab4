@@ -1,0 +1,59 @@
+[
+  {
+    "file": "data\\raw\\nongfu_20200825_prospectus_zh.pdf",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2020/0825/2020082500026_c.pdf",
+    "retrieved_utc": "2026-10-27T13:41:26.348644+00:00",
+    "pages": 549,
+    "extraction": "pdfplumber selected physical pages",
+    "selected_physical_pages": [
+      10,
+      189,
+      190,
+      193,
+      199,
+      200,
+      201,
+      202,
+      208,
+      214,
+      216,
+      218,
+      313,
+      315,
+      316,
+      321,
+      322,
+      370,
+      431
+    ],
+    "sha256": "0ccd4fd34d53384bab305753d8884ecae9d72c2df949865b1741b61caf314bce"
+  },
+  {
+    "file": "data\\raw\\nongfu_20200907_allotment_summary.pdf",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2020/0907/9432500/2020090700028_c.pdf",
+    "retrieved_utc": "2026-10-27T13:41:27.864772+00:00",
+    "pages": 18,
+    "extraction": "pdfplumber selected physical pages",
+    "selected_physical_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "sha256": "10bf78ad85d093213eee8234ff2b0e8c7ac15dc94e8faa4ae066c2f2a3b03d63"
+  }
+]
